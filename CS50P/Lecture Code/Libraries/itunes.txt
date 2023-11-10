@@ -1,0 +1,11 @@
+
+
+
+{
+ "resultCount":1,
+ "results": [
+{"wrapperType":"track", "kind":"song", "artistId":168133, "collectionId":321974937, "trackId":321974997, "artistName":"Gary Wright", "collectionName":"The Dream Weaver", "trackName":"Dream Weaver", "collectionCensoredName":"The Dream Weaver", "trackCensoredName":"Dream Weaver", "artistViewUrl":"https://music.apple.com/us/artist/gary-wright/168133?uo=4", "collectionViewUrl":"https://music.apple.com/us/album/dream-weaver/321974937?i=321974997&uo=4", "trackViewUrl":"https://music.apple.com/us/album/dream-weaver/321974937?i=321974997&uo=4", 
+"previewUrl":"https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview122/v4/7c/29/67/7c2967b5-e873-6164-d77a-ae43d01a12d4/mzaf_11935088810199763535.plus.aac.p.m4a", "artworkUrl30":"https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/e4/95/b0/e495b0e3-9aa0-12ea-d7c4-67f451cc358f/mzi.mvpssdwi.jpg/30x30bb.jpg", "artworkUrl60":"https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/e4/95/b0/e495b0e3-9aa0-12ea-d7c4-67f451cc358f/mzi.mvpssdwi.jpg/60x60bb.jpg", "artworkUrl100":"https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/e4/95/b0/e495b0e3-9aa0-12ea-d7c4-67f451cc358f/mzi.mvpssdwi.jpg/100x100bb.jpg", "collectionPrice":9.99, "trackPrice":1.29, "releaseDate":"1975-06-01T07:00:00Z", "collectionExplicitness":"notExplicit", "trackExplicitness":"notExplicit", "discCount":1, "discNumber":1, "trackCount":9, "trackNumber":6, "trackTimeMillis":256173, "country":"USA", "currency":"USD", "primaryGenreName":"Soft Rock", "isStreamable":true}]
+}
+
+
